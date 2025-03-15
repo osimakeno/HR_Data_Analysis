@@ -6,13 +6,13 @@ This project is a comprehensive HR data analytics initiative aimed at understand
 
 ⸻
 
-# Project Objective
+## Project Objective
 
 The primary goal of this project is to leverage SQL-based analytics to identify critical patterns in employee data. These insights will help HR teams optimize workforce planning, reduce turnover, and improve employee satisfaction. The analysis focuses on attrition rates, employee demographics, departmental trends, and work-life balance.
 
 ⸻
 
-# Dataset Overview
+## Dataset Overview
 
 The dataset includes key employee attributes such as:
 	•	Employee ID – Unique identifier for employees.
@@ -26,7 +26,7 @@ The dataset includes key employee attributes such as:
 
 ⸻
 
-# Data Cleaning & Preprocessing
+## Data Cleaning & Preprocessing
 
 Before performing the analysis, the dataset was cleaned and preprocessed to ensure data integrity and consistency. The following steps were undertaken:
 ✔ Handling missing values
@@ -38,7 +38,7 @@ Before performing the analysis, the dataset was cleaned and preprocessed to ensu
 
 ⸻
 
-# Findings & Insights
+## Findings & Insights
 
 From the data analysis, we observed the following key insights:
 
@@ -59,7 +59,7 @@ From the data analysis, we observed the following key insights:
 
 ⸻
 
-# Data Visualization
+## Data Visualization
 
 To enhance insights, Tableau dashboards were created to visualize:
 📊 Employee distribution by department & role
@@ -69,7 +69,7 @@ To enhance insights, Tableau dashboards were created to visualize:
 
 ⸻
 
-# Conclusion & Business Recommendations
+## Conclusion & Business Recommendations
 
 1️⃣ Focus on Retaining Young Talent:
 	•	Implement mentorship programs for employees aged 18-24 to improve retention.
@@ -87,7 +87,7 @@ To enhance insights, Tableau dashboards were created to visualize:
 
 ⸻
 
-# Tools Used
+## Tools Used
 
 ✔ MySQL – Data storage & analysis
 ✔ Tableau – Visualizing key HR trends
@@ -95,6 +95,6 @@ To enhance insights, Tableau dashboards were created to visualize:
 
 ⸻
 
-# Final Thoughts
+## Final Thoughts
 
 This HR Data Analytics Project successfully identified key workforce patterns, employee turnover risks, and performance trends. Actionable insights were generated to help HR teams improve employee retention, satisfaction, and productivity.
